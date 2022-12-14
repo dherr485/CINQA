@@ -7,6 +7,9 @@ namespace CINQA
 {
 		public class InventoryPurchase
 	{
+
+		/* this is a code for dave to see ;) */
+		
 		public int InventoryPurchaseID { get; set; }
 		public int InventoryItemID { get; set; }
 		public string InventoryItemName { get; set; }
